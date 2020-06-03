@@ -1,0 +1,10 @@
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\BL\bin\Debug\BL.dll
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\BL\bin\Debug\BL.pdb
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\BL\obj\Debug\BL.dll
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\BL\obj\Debug\BL.pdb
+C:\Users\dom\Desktop\SalaryMachine-master\BL\bin\Debug\BL.dll
+C:\Users\dom\Desktop\SalaryMachine-master\BL\bin\Debug\BL.pdb
+C:\Users\dom\Desktop\SalaryMachine-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\dom\Desktop\SalaryMachine-master\BL\obj\Debug\BL.dll
+C:\Users\dom\Desktop\SalaryMachine-master\BL\obj\Debug\BL.pdb
