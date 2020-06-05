@@ -17,5 +17,17 @@ namespace BL.Workers
             }
             return employee;
         }
+
+        public static ISalaryGetter Parse(string type)
+        {//для создания mock-объектов
+            ISalaryGetter employee = null;
+            switch (type)
+            {
+                case "Engineer": employee = new Workers.Engineer(1, 1, 1); break;
+                case "Manager": employee = new Workers.Manager(1, 1, 1); break;
+                case "Worker": employee = new Workers.Worker(1, 1, 1); break;
+            }
+            return employee;
+        }
     }
 }
